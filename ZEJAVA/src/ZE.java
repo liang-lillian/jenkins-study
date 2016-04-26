@@ -8,7 +8,7 @@ public class ZE {
 			// for (int i = 1; i <= 100; i++) {
 			// System.out.println(printFizzBuzz(i));
 			// }
-			int[] A = { 1, 9, 2, 8, 9, 2, 0, 2, 1, 10 };
+			int[] A = { 1,5, 2, 8, 9, 2, 0, 2, 1, 10 };
 			int B = findlong(A);
 			System.out.println("HII " + String.valueOf(B));
 
